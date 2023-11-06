@@ -1,0 +1,21 @@
+{
+  "name": "minimal-theme",
+  "displayName": "Minimal Theme",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.83.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Sagee Conway",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Sagee Conway-color-theme.json"
+      }
+    ]
+  }
+}
