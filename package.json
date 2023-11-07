@@ -1,14 +1,25 @@
 {
-  "name": "minimal-theme",
-  "displayName": "Minimal Theme",
+  "name": "yarn-theme",
+  "displayName": "Yarn Theme",
   "description": "",
   "version": "0.0.1",
+  "publisher": "YawnTheme",
   "engines": {
     "vscode": "^1.83.0"
   },
   "categories": [
     "Themes"
   ],
+  "keywords": [
+    "theme",
+    "sagee conway theme",
+    "conway theme",
+    "sagee conway"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SaConway/yarn-vscode-theme.git"
+  },
   "contributes": {
     "themes": [
       {
