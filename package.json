@@ -1,8 +1,8 @@
 {
   "name": "yarn-theme",
   "displayName": "Yarn Theme",
-  "description": "",
-  "version": "0.0.1",
+  "description": "Presenting a minimal dark theme for Visual Studio Code, perfect for those who prefer coding with fewer distractions. This theme offers a clean and uncluttered experience by using a minimal color palette.",
+  "version": "0.0.2",
   "publisher": "YawnTheme",
   "engines": {
     "vscode": "^1.83.0"
@@ -10,11 +10,14 @@
   "categories": [
     "Themes"
   ],
+  "scripts": {
+    "publish": "vsce publish"
+  },
   "keywords": [
-    "theme",
-    "sagee conway theme",
-    "conway theme",
-    "sagee conway"
+    "Theme",
+    "Sagee Conway Theme",
+    "Conway Theme",
+    "Sagee Conway"
   ],
   "repository": {
     "type": "git",
