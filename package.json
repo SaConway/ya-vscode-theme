@@ -19,6 +19,7 @@
     "Conway Theme",
     "Sagee Conway"
   ],
+  "icon": "icon.png",
   "repository": {
     "type": "git",
     "url": "https://github.com/SaConway/yarn-vscode-theme.git"
