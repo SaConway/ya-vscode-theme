@@ -1,9 +1,9 @@
 {
-  "name": "yarn-theme",
+  "name": "ya-theme",
   "displayName": "Ya Theme",
-  "description": "Presenting a minimal dark theme for Visual Studio Code, perfect for those who prefer coding with fewer distractions. This theme offers a clean and uncluttered experience by using a minimal color palette.",
-  "version": "0.0.3",
-  "publisher": "YawnTheme",
+  "description": "A clean, distraction-free dark theme",
+  "version": "0.0.5",
+  "publisher": "SageeConway",
   "engines": {
     "vscode": "^1.83.0"
   },
