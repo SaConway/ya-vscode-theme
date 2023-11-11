@@ -2,7 +2,7 @@
   "name": "ya-theme",
   "displayName": "Ya Theme",
   "description": "A clean, distraction-free dark theme",
-  "version": "0.0.5",
+  "version": "0.0.7",
   "publisher": "SageeConway",
   "engines": {
     "vscode": "^1.83.0"
